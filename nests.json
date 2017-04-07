@@ -31,10 +31,13 @@ curl -X POST --data '
 },
 { "title": "Elinor-Klapp Phipps Park", "url": "https://www.google.com/maps/place/Elinor+Klapp-Phipps+Park/@30.530263,-84.2921841,16z", "description": "Vulpix", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/vulpix.gif"} 
 },
-{ "title": "Fort Braden Trails", "url": "https://www.google.com/maps/place/Lake+Talquin+State+Forest+%E2%80%93+Fort+Braden+Trails/@30.4414407,-84.4969206,16z/data=!4m5!3m4!1s0x88ecece966b789e1:0xeb07c1188665d698!8m2!3d30.4381384!4d-84.4956779", "description": "Omanyte", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/omanyte.gif"}
+{ "title": "Fort Braden Trails", "url": "https://www.google.com/maps/place/Lake+Talquin+State+Forest+%E2%80%93+Fort+Braden+Trails/@30.4414407,-84.4969206,16z", "description": "Omanyte", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/omanyte.gif"}
 },
 { "title": "Fred George Greenway and Park", "url": "https://www.google.com/maps/place/Fred+George+Basin+Greenway/@30.4946775,-84.3587993,17z", "description": "Bulbasaur", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/bulbasaur.gif"}
-}
+},
+ { "title": "FSU IM Fields", "url": "https://www.google.com/maps/@30.435404,-84.2963207,16.79z", "description": "Please investigate and report", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}
+},
+  { "title": "FSU Rec SportsPlex", "url": "https://www.google.com/maps/place/Florida+State+University+Rec+SportsPlex/@30.4218333,-84.3419109,17z", "description": "Please investigate and report", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}
 ]
 }' -H "Content-Type: application/json" https://discordapp.com/api/webhooks/299555497898409984/MK_84Zh-YIBMNAJbegnPQ6Mu7F65GRgiyDJqI_-37oxJxKp5x_VC1UyywFdAyszIXtXh
  
