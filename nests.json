@@ -57,7 +57,7 @@ curl -X POST --data '
 },
 {"title": "Jake Gaither Golf Course", "url": "https://www.google.com/maps/place/Jake+Gaither+Golf+Course/@30.4018753,-84.2971338,17z", "description": "Aipom", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/aipom"}
 },
-{"title": "James Messer Park", "url": "https://www.google.com/maps/place/James+Messer+Sports+Complex/@30.43441,-84.3362767,17z", "description": "Please investigate and report", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}
+{"title": "James Messer Park", "url": "https://www.google.com/maps/place/James+Messer+Sports+Complex/@30.43441,-84.3362767,17z", "description": "Slowpoke", "type": "link", "thumbnail": {"url":"ttps://img.pokemondb.net/sprites/black-white/anim/normal/slowpoke.gif"}
 }
 ]
 }' -H "Content-Type: application/json" https://discordapp.com/api/webhooks/299555497898409984/MK_84Zh-YIBMNAJbegnPQ6Mu7F65GRgiyDJqI_-37oxJxKp5x_VC1UyywFdAyszIXtXh
@@ -92,7 +92,7 @@ curl -X POST --data '
 {"title": "Levy Park", "url": "https://www.google.com/maps/place/Levy+Park/@30.458649,-84.2907268,16z", "description": "Onix", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/onix.gif"}},
 {"title": "Killearn Estates Golf Course", "url": "https://www.google.com/maps/place/Killearn+Country+Club/@30.5244723,-84.2155653,17z", "description": "Unknown/Unchecked", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}},
 {"title": "Maclay Gardens", "url": "https://www.google.com/maps/place/Alfred+B.+Maclay+Gardens+State+Park/@30.5134462,-84.2498002,17z", "description": "Natu", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/natu.gif"}},
-{"title": "McCord Park", "url": "https://www.google.com/maps/place/McCord+Park,+Tallahassee,+FL+32308/@30.4735579,-84.2641832,17z", "description": "Unknown/Unchecked", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}},
+{"title": "McCord Park", "url": "https://www.google.com/maps/place/McCord+Park,+Tallahassee,+FL+32308/@30.4735579,-84.2641832,17z", "description": "Chinchou", "type": "link", "thumbnail": {"url":"https://img.pokemondb.net/sprites/black-white/anim/normal/chinchou.gif"}},
 {"title": "Miccosukee Canopy Road Greenway", "url": "https://www.google.com/maps/place/Miccosukee+Canopy+Road+Greenway/@30.4841448,-84.2010424,17z", "description": "Ekans", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/ekans.gif"}},
 {"title": "Mission San Luis de Apalachee", "url": "https://www.google.com/maps/place/Mission+San+Luis/@30.4486819,-84.3222275,17z", "description": "Unknown/Unchecked", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}},
 {"title": "Myers Park", "url": "https://www.google.com/maps/place/Myers+Park,+Myers+Park+Dr,+Tallahassee,+FL+32301/@30.4272182,-84.2855383,15z", "description": "Gastly", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/gastly.gif"}
@@ -121,7 +121,12 @@ curl -X POST --data '
 {"title": "Tom Brown Park", "url": "https://www.google.com/maps/place/Tom+Brown+Park,+Conner+Blvd,+Tallahassee,+FL+32311/@30.4437904,-84.2150455,18z", "description": "Slugma", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/slugma.gif"}},
 { "title": "Waverly Park", "url": "https://www.google.com/maps/place/Waverly+Pond/@30.4794145,-84.2635787,17z", "description": "Charmander", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/charmander-3.gif"}},
 {"title": "Winthrop Park", "url": "https://www.google.com/maps/place/Winthrop+Park/@30.463722,-84.2692447,17z", "description": "Unknown/Unchecked", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}
+},
+{"title": "Canopy Oaks Park", "url": "https://www.google.com/maps/place/30°30'44.2"N+84°20'49.2"W/@30.5122723,-84.3480883,18z", "description": "Sneasel", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/sneasel.gif"}
+},
+ {"title": "Governors Park", "url": "https://www.google.com/maps/place/@30.4460054,-84.2498243,17z/", "description": "Please investigate and report", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}
 }
+ 
 ]
 }' -H "Content-Type: application/json" https://discordapp.com/api/webhooks/299555497898409984/MK_84Zh-YIBMNAJbegnPQ6Mu7F65GRgiyDJqI_-37oxJxKp5x_VC1UyywFdAyszIXtXh
  
