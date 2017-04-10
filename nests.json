@@ -53,7 +53,7 @@ curl -X POST --data '
 },
 {"title": "Jack McLean Park", "url": "https://www.google.com/maps/place/Jack+L+McLean+Community+Center/@30.407741,-84.2727531,17z", "description": "Please investigate and report", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}
 },
-{"title": "Jake Gaither Golf Course", "url": "https://www.google.com/maps/place/Jake+Gaither+Golf+Course/@30.4018753,-84.2971338,17z", "description": "Aipom", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/aipom"}
+{"title": "Jake Gaither Golf Course", "url": "https://www.google.com/maps/place/Jake+Gaither+Golf+Course/@30.4018753,-84.2971338,17z", "description": "Aipom", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/aipom.gif"}
 },
 {"title": "James Messer Park", "url": "https://www.google.com/maps/place/@30.43441,-84.3362767,17z", "description": "Slowpoke", "type": "link", "thumbnail": {"url":"https://img.pokemondb.net/sprites/black-white/anim/normal/slowpoke.gif"}
 }
@@ -102,7 +102,7 @@ curl -X POST --data '
 { "embeds": 
 [
 {"title": "Oakland Cemetery", "url": "https://www.google.com/maps/place/Oakland+Cemetery,+Tallahassee,+FL+32303/@30.4513305,-84.2885456,17z", "description": "Unknown/Unchecked", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}},
-{"title": "Old Bainbridge County Park", "url": "https://www.google.com/maps/search/Old+Bainbridge+County+Park/@30.5371296,-84.3606233,17z", "description": "Pikachu", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/pikachu-2.gif"}},
+{"title": "Old Bainbridge County Park", "url": "https://www.google.com/maps/search/Old+Bainbridge+County+Park/@30.5371296,-84.3606233,17z", "description": "Pikachu", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/pikachu.gif"}},
 {"title": "Optimist Park", "url": "https://www.google.com/maps/place/Optimist+Park,+Tallahassee,+FL+32301/@30.4266135,-84.2602257,17z", "description": "Venonat", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/venonat.gif"}},
 {"title": "San Luis Park", "url": "https://www.google.com/maps/place/San+Luis+Mission+Park/@30.4599044,-84.3236172,17z", "description": "Unknown/Unchecked", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}},
 {"title": "Seminole Golf Course", "url": "https://www.google.com/maps/place/The+Don+Veller+Seminole+Golf+Course+and+Club/@30.418914,-84.3199502,17z", "description": "Electabuzz", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/emerald/animated/electabuzz.gif"}},
@@ -117,14 +117,13 @@ curl -X POST --data '
 [
 {"title": "Stoneler Road County Park", "url": "https://www.google.com/maps/place/Stoneler+Rd+County+Park/@30.5097687,-84.3711798,17z", "description": "Sandshrew", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/sandshrew.gif"}},
 {"title": "Tom Brown Park", "url": "https://www.google.com/maps/place/Tom+Brown+Park,+Conner+Blvd,+Tallahassee,+FL+32311/@30.4437904,-84.2150455,18z", "description": "Slugma", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/slugma.gif"}},
-{ "title": "Waverly Park", "url": "https://www.google.com/maps/place/Waverly+Pond/@30.4794145,-84.2635787,17z", "description": "Charmander", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/charmander-3.gif"}},
+{ "title": "Waverly Park", "url": "https://www.google.com/maps/place/Waverly+Pond/@30.4794145,-84.2635787,17z", "description": "Charmander", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/charmander.gif"}},
 {"title": "Winthrop Park", "url": "https://www.google.com/maps/place/Winthrop+Park/@30.463722,-84.2692447,17z", "description": "Unknown/Unchecked", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}
 },
-{"title": "Canopy Oaks Park", "url": "https://www.google.com/maps/place/30°30'44.2"N+84°20'49.2"W/@30.5122723,-84.3480883,18z", "description": "Sneasel", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/sneasel.gif"}
+{"title": "Canopy Oaks Park", "url": "https://www.google.com/maps/place/@30.5122723,-84.3480883,18z", "description": "Sneasel", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/sneasel.gif"}
 },
- {"title": "Governors Park", "url": "https://www.google.com/maps/place/@30.4460054,-84.2498243,17z/", "description": "Please investigate and report", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}
+ {"title": "Governors Park", "url": "https://www.google.com/maps/place/@30.4460054,-84.2498243,17z", "description": "Please investigate and report", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}
 }
- 
 ]
 }' -H "Content-Type: application/json" https://discordapp.com/api/webhooks/299555497898409984/MK_84Zh-YIBMNAJbegnPQ6Mu7F65GRgiyDJqI_-37oxJxKp5x_VC1UyywFdAyszIXtXh
  
