@@ -45,8 +45,6 @@ curl -X POST --data '
 curl -X POST --data '
 { "embeds": 
 [
-{"title": "Governors Park", "url": "https://www.google.com/maps/place/30°26'45.1"N+84°14'50.6"W/@30.445876,-84.2495777,17z", "description": "Please investigate and report", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}
-},
 {"title": "Harriman Circle Park", "url": "https://www.google.com/maps/place/Harriman+Circle+Park/@30.4752544,-84.2541039,17z", "description": "Please investigate and report", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}
 },
 {"title": "Havana Park", "url": "https://www.google.com/maps/place/Havana+Public+Library/@30.627416,-84.4149227,16z", "description": "Sneasel", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/sneasel.gif"}
