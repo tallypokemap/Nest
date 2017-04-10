@@ -55,7 +55,7 @@ curl -X POST --data '
 },
 {"title": "Jake Gaither Golf Course", "url": "https://www.google.com/maps/place/Jake+Gaither+Golf+Course/@30.4018753,-84.2971338,17z", "description": "Aipom", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/aipom"}
 },
-{"title": "James Messer Park", "url": "https://www.google.com/maps/place/James+Messer+Sports+Complex/@30.43441,-84.3362767,17z", "description": "Slowpoke", "type": "link", "thumbnail": {"url":"ttps://img.pokemondb.net/sprites/black-white/anim/normal/slowpoke.gif"}
+{"title": "James Messer Park", "url": "https://www.google.com/maps/place/@30.43441,-84.3362767,17z", "description": "Slowpoke", "type": "link", "thumbnail": {"url":"https://img.pokemondb.net/sprites/black-white/anim/normal/slowpoke.gif"}
 }
 ]
 }' -H "Content-Type: application/json" https://discordapp.com/api/webhooks/299555497898409984/MK_84Zh-YIBMNAJbegnPQ6Mu7F65GRgiyDJqI_-37oxJxKp5x_VC1UyywFdAyszIXtXh
