@@ -118,7 +118,7 @@ curl -X POST --data '
 {"title": "Stoneler Road County Park", "url": "https://www.google.com/maps/place/Stoneler+Rd+County+Park/@30.5097687,-84.3711798,17z", "description": "Sandshrew", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/sandshrew.gif"}},
 {"title": "Tom Brown Park", "url": "https://www.google.com/maps/place/Tom+Brown+Park,+Conner+Blvd,+Tallahassee,+FL+32311/@30.4437904,-84.2150455,18z", "description": "Slugma", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/slugma.gif"}},
 { "title": "Waverly Park", "url": "https://www.google.com/maps/place/Waverly+Pond/@30.4794145,-84.2635787,17z", "description": "Charmander", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/charmander.gif"}},
-{"title": "Winthrop Park", "url": "https://www.google.com/maps/place/Winthrop+Park/@30.463722,-84.2692447,17z", "description": "Unknown/Unchecked", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}
+{"title": "Winthrop Park", "url": "https://www.google.com/maps/place/Winthrop+Park/@30.463722,-84.2692447,17z", "description": "Teddiursa", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/teddiursa.gif"}
 },
 {"title": "Canopy Oaks Park", "url": "https://www.google.com/maps/place/@30.5122723,-84.3480883,18z", "description": "Sneasel", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/sneasel.gif"}
 },
