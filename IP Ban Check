@@ -1,0 +1,12 @@
+#### Download Curl.exe
+#### Git bash from folder where curl.exe
+### C/P Line 5
+
+if curl https://pgorelease.nianticlabs.com/plfe/rpc -I | grep 403; then IP=$(curl checkip.amazonaws.com/);echo -n ", $IP" >> file ; else echo Not Banned; fi
+  
+  ####Output should look like this 
+  
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0   321    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+Not Banned
