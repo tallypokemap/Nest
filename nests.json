@@ -128,3 +128,9 @@ curl -X POST --data '
 }' -H "Content-Type: application/json" https://discordapp.com/api/webhooks/299555497898409984/MK_84Zh-YIBMNAJbegnPQ6Mu7F65GRgiyDJqI_-37oxJxKp5x_VC1UyywFdAyszIXtXh
  
  
+curl -X POST --data '
+{ "embeds": 
+[
+{"title": "Gil Waters Preserve", "url": "https://www.google.com/maps/place/@30.365351,-84.3005917,17z", "description": "Cyndaquil", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/cyndaquil.gif"}}
+]
+}' -H "Content-Type: application/json" https://discordapp.com/api/webhooks/299555497898409984/MK_84Zh-YIBMNAJbegnPQ6Mu7F65GRgiyDJqI_-37oxJxKp5x_VC1UyywFdAyszIXtXh
