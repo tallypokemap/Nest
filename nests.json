@@ -155,9 +155,9 @@ curl -X POST --data '
 curl -X POST --data '
 { "embeds": 
 [
-{"color": "16777215","title": "Stoneler Road County Park", "url": "https://www.google.com/maps/place/Stoneler+Rd+County+Park/@30.5097687,-84.3711798,17z", "description": "Rattata", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/meowth.gif"}},
+{"color": "16777215","title": "Stoneler Road County Park", "url": "https://www.google.com/maps/place/Stoneler+Rd+County+Park/@30.5097687,-84.3711798,17z", "description": "Rattata", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/rattata.gif"}},
 {"color": "10696174","title": "Tom Brown Park", "url": "https://www.google.com/maps/place/Tom+Brown+Park,+Conner+Blvd,+Tallahassee,+FL+32311/@30.4437904,-84.2150455,18z", "description": "Slowpoke", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/slowpoke.gif"}},
-{"color": "16777215", "title": "Waverly Park", "url": "https://www.google.com/maps/place/Waverly+Pond/@30.4794145,-84.2635787,17z", "description": "Dunsparce", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/charmander.gif"}},
+{"color": "16777215", "title": "Waverly Park", "url": "https://www.google.com/maps/place/Waverly+Pond/@30.4794145,-84.2635787,17z", "description": "Dunsparce", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/dunsparce.gif"}},
 {"color": "10329501","title": "Winthrop Park", "url": "https://www.google.com/maps/place/Winthrop+Park/@30.463722,-84.2692447,17z", "description": "Please investigate and report", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}
 }
 ]
