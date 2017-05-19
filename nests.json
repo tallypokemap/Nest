@@ -83,7 +83,7 @@ curl -X POST --data '
 },
 {"color": "16777215","title": "Jake Gaither Golf Course", "url": "https://www.google.com/maps/place/Jake+Gaither+Golf+Course/@30.4018753,-84.2971338,17z", "description": "Machop", "type": "link", "thumbnail": {"url":"https://img.pokemondb.net/sprites/black-white/anim/normal/machop.gif"}
 },
-{"color": "16777215","title": "James Messer Park", "url": "https://www.google.com/maps/place/@30.43441,-84.3362767,17z", "description": "Electabuzz", "type": "link", "thumbnail": {"url":"https://img.pokemondb.net/sprites/black-white/anim/normal/electabuzz.gif"}
+{"color": "16777215","title": "James Messer Park", "url": "https://www.google.com/maps/place/@30.43441,-84.3362767,17z", "description": "Staryu", "type": "link", "thumbnail": {"url":"https://img.pokemondb.net/sprites/black-white/anim/normal/staryu.gif"}
 }
 ]
 }' -H "Content-Type: application/json" https://discordapp.com/api/webhooks/299555497898409984/MK_84Zh-YIBMNAJbegnPQ6Mu7F65GRgiyDJqI_-37oxJxKp5x_VC1UyywFdAyszIXtXh
@@ -95,11 +95,11 @@ curl -X POST --data '
 },
 {"color": "2031360","title": "Lafayette Park", "url": "https://www.google.com/maps/place/Lafayette+Park/@30.4533755,-84.2767344,17.25z", "description": "?", "type": "link", "thumbnail": {"url": "http://i.imgur.com/HddtBOT.png"}
 },
-{"color": "2031360","title": "Lake Ella", "url": "https://www.google.com/maps/place/Lake+Ella/@30.4609771,-84.2804669,18z", "description": "Ledyba", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/venonat.gif"}
+{"color": "2031360","title": "Lake Ella", "url": "https://www.google.com/maps/place/Lake+Ella/@30.4609771,-84.2804669,18z", "description": "Ledyba", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/ledyba.gif"}
 },
 {"color": "2031360","title": "Lake Jackson Mounds", "url": "https://www.google.com/maps/place/Lake+Jackson+Mounds+Archaeological+State+Park/@30.500335,-84.3190384,17z", "description": "Slowpoke", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/slowpoke.gif"}
 },
-{"color": "10696174","title": "Lake Talquin State Park", "url": "https://www.google.com/maps/place/Lake+Talquin+State+Park/@30.4408305,-84.5321935,15.46z/", "description": "?", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}
+{"color": "10696174","title": "Lake Talquin State Park", "url": "https://www.google.com/maps/place/Lake+Talquin+State+Park/@30.4408305,-84.5321935,15.46z/", "description": "Aipom", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/aipom.gif"}
 },
 {"color": "10329501","title": "Landis Green", "url": "https://www.google.com/maps/place/Landis+Green/@30.4416106,-84.2971756,17z", "description": "?", "type": "link", "thumbnail": {"url": "http://i.imgur.com/HddtBOT.png"}
 },
@@ -147,7 +147,7 @@ curl -X POST --data '
 {"color": "16777215","title": "San Luis Park", "url": "https://www.google.com/maps/place/San+Luis+Mission+Park/@30.4599044,-84.3236172,17z", "description": "Wooper", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/emerald/animated/wooper.gif"}},
 {"color": "2031360","title": "Seminole Golf Course", "url": "https://www.google.com/maps/place/The+Don+Veller+Seminole+Golf+Course+and+Club/@30.418914,-84.3199502,17z", "description": "Electabuzz", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/emerald/animated/electabuzz.gif"}},
 {"color": "10329501","title": "Southwood Golf Course", "url": "https://www.google.com/maps/place/SouthWood+Golf+Club/@30.3955828,-84.2206388,17z", "description": "Unknown/Unchecked", "type": "link", "thumbnail": {"url":"http://i.imgur.com/HddtBOT.png"}},
-{"color": "16777215","title": "Silver Lake Recreation Area", "url": "https://www.google.com/maps/place/Silver+Lake+Recreation+Area,+Tallahassee,+FL+32310/@30.4041384,-84.4093218,17z", "description": "?", "type": "link", "thumbnail": {"url": "http://i.imgur.com/HddtBOT.png"}
+{"color": "16777215","title": "Silver Lake Recreation Area", "url": "https://www.google.com/maps/place/Silver+Lake+Recreation+Area,+Tallahassee,+FL+32310/@30.4041384,-84.4093218,17z", "description": "Girafarig", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/emerald/animated/girafarig.gif"}
 }
 ]
 }' -H "Content-Type: application/json" https://discordapp.com/api/webhooks/299555497898409984/MK_84Zh-YIBMNAJbegnPQ6Mu7F65GRgiyDJqI_-37oxJxKp5x_VC1UyywFdAyszIXtXh
