@@ -75,7 +75,7 @@ curl -X POST --data '
 curl -X POST --data '
 { "embeds": 
 [ 
-{"color": "16777215","title": "Hill Top Park West", "url": "https://www.google.com/maps/place/@30.505978,-84.4920395,603m/", "description": "?", "type": "link", "thumbnail": {"url": "http://i.imgur.com/HddtBOT.png"}
+{"color": "16777215","title": "Hill Top Park West", "url": "https://www.google.com/maps/place/@30.505978,-84.4920395,603m/", "description": "Remoraid", "type": "link", "thumbnail": {"url": "http://www.pokestadium.com/sprites/black-white/animated/remoraid.gif"}
 },
 {"color": "2031360","title": "Hillaman Golf Course", "url": "https://www.google.com/maps/place/Hilaman+Golf+Course/@30.4193427,-84.2494128,17z", "description": "Meh?", "type": "link", "thumbnail": {"url": "http://i.imgur.com/HddtBOT.png"}
 },
