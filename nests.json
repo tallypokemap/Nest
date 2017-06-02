@@ -33,7 +33,7 @@ curl -X POST --data '
 },
 {"color": "16777215", "title": "Carter-Howell-Strong Park", "url": "https://goo.gl/maps/RTvZDoj47wP2", "description": "Slowpoke", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/slowpoke.gif"} 
 },
-{"color": "2031360", "title": "Cascades Park", "url": "https://goo.gl/maps/n6ET9aSRMxR2", "description": "Chincou", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/chincou.gif"} 
+{"color": "2031360", "title": "Cascades Park", "url": "https://goo.gl/maps/n6ET9aSRMxR2", "description": "Chinchou", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/chinchou.gif"} 
 }
 ]
 }' -H "Content-Type: application/json" https://discordapp.com/api/webhooks/299555497898409984/MK_84Zh-YIBMNAJbegnPQ6Mu7F65GRgiyDJqI_-37oxJxKp5x_VC1UyywFdAyszIXtXh
@@ -50,7 +50,7 @@ curl -X POST --data '
 },
 {"color": "2031360", "title": "Fort Braden Trails", "url": "https://www.google.com/maps/place/Lake+Talquin+State+Forest+%E2%80%93+Fort+Braden+Trails/@30.4414407,-84.4969206,16z", "description": "Drowzee", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/drowzee.gif"}
 },
-{"color": "2031360", "title": "Fred George Greenway and Park", "url": "https://www.google.com/maps/place/Fred+George+Basin+Greenway/@30.4946775,-84.3587993,17z", "description": "Crappy/nLike Dan's pants", "type": "link", "thumbnail": {"url":"https://m.popkey.co/68b58b/z9mGe.gif"}
+{"color": "2031360", "title": "Fred George Greenway and Park", "url": "https://www.google.com/maps/place/Fred+George+Basin+Greenway/@30.4946775,-84.3587993,17z", "description": "Crappy\nLike Dans pants", "type": "link", "thumbnail": {"url":"https://m.popkey.co/68b58b/z9mGe.gif"}
 },
 {"color": "16777215", "title": "FSU IM Fields", "url": "https://www.google.com/maps/place/Florida+State+Univ+Intramural/@30.4364122,-84.3005724,18.25z", "description": "Abra", "type": "link", "thumbnail": {"url":"http://www.pokestadium.com/sprites/black-white/animated/abra.gif"}
 },
