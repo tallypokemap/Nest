@@ -1,5 +1,7 @@
 ### You can only do 7 embeds at a time before starting over
 
+### You can only do 7 embeds at a time before starting over
+
 curl -X POST --data '
 { "embeds": 
 [  
@@ -33,30 +35,30 @@ curl -X POST --data '
       "color":"2031360",
       "title":"AJ-Henry",
       "url":"https://goo.gl/maps/2qhUTudfHb32",
-      "description":"machop",
+      "description":"?",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/machop.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/?.gif"
       }
    },
    {  
       "color":"10696174",
       "title":"Alford Greenway",
       "url":"https://goo.gl/maps/nyPG7m1SELm",
-      "description":"kabuto",
+      "description":"seel",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/kabuto.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/seel.gif"
       }
    },
    {  
       "color":"2031360",
       "title":"Apalachee Regional Park",
       "url":"https://goo.gl/maps/sE8UD7t2Mxm",
-      "description":"eevee",
+      "description":"jynx",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/eevee.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/jynx.gif"
       }
    },
    {  
@@ -73,10 +75,10 @@ curl -X POST --data '
       "color":"16777215",
       "title":"Canopy Oaks Park",
       "url":"https://www.google.com/maps/place/@30.5122723,-84.3480883,18z",
-      "description":"?",
+      "description":"slugma",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/?.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/slugma.gif"
       }
    }
 ]
@@ -99,20 +101,20 @@ curl -X POST --data '
       "color":"16777215",
       "title":"Carter-Howell-Strong Park",
       "url":"https://goo.gl/maps/RTvZDoj47wP2",
-      "description":"wobbuffet",
+      "description":"tentacool",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/wobbuffet.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/tentacool.gif"
       }
    },
    {  
       "color":"2031360",
       "title":"Cascades Park",
       "url":"https://goo.gl/maps/n6ET9aSRMxR2",
-      "description":"poliwag",
+      "description":"magnemite",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/poliwag.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/magnemite.gif"
       }
    }
 ]
@@ -146,10 +148,10 @@ curl -X POST --data '
       "color":"10696174",
       "title":"Elinor-Klapp Phipps Park",
       "url":"https://www.google.com/maps/place/Elinor+Klapp-Phipps+Park/@30.530263,-84.2921841,16z",
-      "description":"teddiursa",
+      "description":"girafarig",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/teddiursa.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/girafarig.gif"
       }
    },
    {  
@@ -166,30 +168,30 @@ curl -X POST --data '
       "color":"2031360",
       "title":"Fred George Greenway and Park",
       "url":"https://www.google.com/maps/place/Fred+George+Basin+Greenway/@30.4946775,-84.3587993,17z",
-      "description":"slugma",
+      "description":"vulpix",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/slugma.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/vulpix.gif"
       }
    },
    {  
       "color":"16777215",
       "title":"FSU IM Fields",
       "url":"https://www.google.com/maps/place/Florida+State+Univ+Intramural/@30.4364122,-84.3005724,18.25z",
-      "description":"bellsprout",
+      "description":"cyndaquil",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/bellsprout.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/cyndaquil.gif"
       }
    },
    {  
       "color":"16777215",
       "title":"FSU Rec SportsPlex",
       "url":"https://www.google.com/maps/place/Florida+State+University+Rec+SportsPlex/@30.4221182,-84.3421214,17z",
-      "description":"tentacool",
+      "description":"girafarig",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/tentacool.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/girafarig.gif"
       }
    }
 ]
@@ -202,10 +204,10 @@ curl -X POST --data '
       "color":"16777215",
       "title":"Gil Waters Preserve",
       "url":"https://www.google.com/maps/place/@30.365351,-84.3005917,17z",
-      "description":"sneasel",
+      "description":"scyther",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/sneasel.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/scyther.gif"
       }
    },
    {  
@@ -222,17 +224,17 @@ curl -X POST --data '
       "color":"10329501",
       "title":"Harriman Circle Park",
       "url":"https://www.google.com/maps/place/Harriman+Circle+Park/@30.4752544,-84.2541039,17z",
-      "description":"?",
+      "description":"girafarig",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/girafarig.gif"
       }
    },
    {  
       "color":"16777215",
       "title":"Havana Park",
       "url":"https://www.google.com/maps/place/Havana+Public+Library/@30.627416,-84.4149227,16z",
-      "description":"?",
+      "description":"No one cares",
       "type":"link",
       "thumbnail":{  
          "url":"http://www.pokestadium.com/sprites/black-white/animated/?.gif"
@@ -258,10 +260,10 @@ curl -X POST --data '
       "color":"2031360",
       "title":"Hillaman Golf Course",
       "url":"https://www.google.com/maps/place/Hilaman+Golf+Course/@30.4193427,-84.2494128,17z",
-      "description":"oddish",
+      "description":"?",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/oddish.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/?.gif"
       }
    },
    {  
@@ -278,20 +280,20 @@ curl -X POST --data '
       "color":"16777215",
       "title":"Jake Gaither Golf Course",
       "url":"https://www.google.com/maps/place/Jake+Gaither+Golf+Course/@30.4018753,-84.2971338,17z",
-      "description":"?",
+      "description":"Voltorb",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/voltorb.gif"
       }
    },
    {  
       "color":"16777215",
       "title":"James Messer Park",
       "url":"https://www.google.com/maps/place/@30.43441,-84.3362767,17z",
-      "description":"mankey",
+      "description":"wobbuffet",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/mankey.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/wobbuffet.gif"
       }
    }
 ]
@@ -304,20 +306,20 @@ curl -X POST --data '
       "color":"2031360",
       "title":"Lafayette Heritage Park",
       "url":"https://goo.gl/maps/1YJYf7mYbi22",
-      "description":"jigglypuff",
+      "description":"growlithe",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/jigglypuff.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/growlithe.gif"
       }
    },
    {  
       "color":"2031360",
       "title":"Lafayette Park",
       "url":"https://www.google.com/maps/place/Lafayette+Park/@30.4533755,-84.2767344,17.25z",
-      "description":"?",
+      "description":"exeggcute",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/?.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/exeggcute.gif"
       }
    },
    {  
@@ -334,17 +336,17 @@ curl -X POST --data '
       "color":"2031360",
       "title":"Lake Jackson Mounds",
       "url":"https://www.google.com/maps/place/Lake+Jackson+Mounds+Archaeological+State+Park/@30.500335,-84.3190384,17z",
-      "description":"slugma",
+      "description":"sneasel",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/slugma.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/sneasel.gif"
       }
    },
    {  
       "color":"10696174",
       "title":"Lake Talquin State Park",
       "url":"https://www.google.com/maps/place/Lake+Talquin+State+Park/@30.4408305,-84.5321935,15.46z/",
-      "description":"?",
+      "description":"Go check!",
       "type":"link",
       "thumbnail":{  
          "url":"http://www.pokestadium.com/sprites/black-white/animated/.gif"
@@ -354,10 +356,10 @@ curl -X POST --data '
       "color":"10329501",
       "title":"Landis Green",
       "url":"https://www.google.com/maps/place/Landis+Green/@30.4416106,-84.2971756,17z",
-      "description":"?",
+      "description":"bulbasaur",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/bulbasaur.gif"
       }
    },
    {  
@@ -380,50 +382,50 @@ curl -X POST --data '
       "color":"10329501",
       "title":"Levy Park",
       "url":"https://www.google.com/maps/place/Levy+Park/@30.458649,-84.2907268,16z",
-      "description":"omanyte",
+      "description":"electabuzz",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/omanyte.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/electabuzz.gif"
       }
    },
    {  
       "color":"16777215",
       "title":"Killearn Estates Golf Course",
       "url":"https://www.google.com/maps/place/Killearn+Country+Club/@30.5244723,-84.2155653,17z",
-      "description":"clefairy",
+      "description":"charmander",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/clefairy.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/charmander.gif"
       }
    },
    {  
       "color":"2031360",
       "title":"Maclay Gardens",
       "url":"https://www.google.com/maps/place/Alfred+B.+Maclay+Gardens+State+Park/@30.5134462,-84.2498002,17z",
-      "description":"oddish",
+      "description":"sandshrew",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/oddish.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/sandshrew.gif"
       }
    },
    {  
       "color":"16777215",
       "title":"McCord Park",
       "url":"https://www.google.com/maps/place/McCord+Park,+Tallahassee,+FL+32308/@30.4735579,-84.2641832,17z",
-      "description":"ghastly",
+      "description":"?",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/ghastly.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/.gif"
       }
    },
    {  
       "color":"16777215",
       "title":"Miccosukee Canopy Road Greenway",
       "url":"https://www.google.com/maps/place/Miccosukee+Canopy+Road+Greenway/@30.4841448,-84.2010424,17z",
-      "description":"shuckle",
+      "description":"rhyhorn",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/shuckle.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/rhyhorn.gif"
       }
    }
 ]
@@ -446,20 +448,20 @@ curl -X POST --data '
       "color":"16777215",
       "title":"Mission San Luis de Apalachee",
       "url":"https://www.google.com/maps/place/Mission+San+Luis/@30.4486819,-84.3222275,17z",
-      "description":"shellder",
+      "description":"teddiursa",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/shellder.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/teddiursa.gif"
       }
    },
    {  
       "color":"16777215",
       "title":"Myers Park",
       "url":"https://www.google.com/maps/place/Myers+Park,+Myers+Park+Dr,+Tallahassee,+FL+32301/@30.4272182,-84.2855383,15z",
-      "description":"swinub",
+      "description":"gastly",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/swinub.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/gastly.gif"
       }
    }
 ]
@@ -482,30 +484,30 @@ curl -X POST --data '
       "color":"16777215",
       "title":"Okeeheepkee Prairie Park",
       "url":"https://www.google.com/maps/place/Okeeheepkee+Prairie+Park/@30.49648,-84.3115787,17z/",
-      "description":"?",
+      "description":"voltorb",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/voltorb.gif"
       }
    },
    {  
       "color":"16777215",
       "title":"Old Bainbridge County Park",
       "url":"https://www.google.com/maps/search/Old+Bainbridge+County+Park/@30.5371296,-84.3606233,17z",
-      "description":"houndour",
+      "description":"snubbull",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/houndour.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/snubbull.gif"
       }
    },
    {  
       "color":"10329501",
       "title":"Optimist Park",
       "url":"https://www.google.com/maps/place/Optimist+Park,+Tallahassee,+FL+32301/@30.4266135,-84.2602257,17z",
-      "description":"cubone",
+      "description":"yanma",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/cubone.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/yanma.gif"
       }
    }
 ]
@@ -518,37 +520,37 @@ curl -X POST --data '
       "color":"16777215",
       "title":"San Luis Park",
       "url":"https://www.google.com/maps/place/San+Luis+Mission+Park/@30.4599044,-84.3236172,17z",
-      "description":"?",
+      "description":"snubbull",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/emerald/animated/.gif"
+         "url":"http://www.pokestadium.com/sprites/emerald/animated/snubbull.gif"
       }
    },
    {  
       "color":"2031360",
       "title":"Seminole Golf Course",
       "url":"https://www.google.com/maps/place/The+Don+Veller+Seminole+Golf+Course+and+Club/@30.418914,-84.3199502,17z",
-      "description":"Remoraid",
+      "description":"slowpoke",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/emerald/animated/remoraid.gif"
+         "url":"http://www.pokestadium.com/sprites/emerald/animated/slowpoke.gif"
       }
    },
    {  
       "color":"10329501",
       "title":"Southwood Golf Course",
       "url":"https://www.google.com/maps/place/SouthWood+Golf+Club/@30.3955828,-84.2206388,17z",
-      "description":"?",
+      "description":"misdreavus",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/misdreavus.gif"
       }
    },
    {  
       "color":"16777215",
       "title":"Silver Lake Recreation Area",
       "url":"https://www.google.com/maps/place/Silver+Lake+Recreation+Area,+Tallahassee,+FL+32310/@30.4041384,-84.4093218,17z",
-      "description":"?",
+      "description":"I heard a rumor is Larvitar",
       "type":"link",
       "thumbnail":{  
          "url":"http://www.pokestadium.com/sprites/black-white/animated/.gif"
@@ -564,20 +566,20 @@ curl -X POST --data '
       "color":"16777215",
       "title":"Stoneler Road County Park",
       "url":"https://www.google.com/maps/place/Stoneler+Rd+County+Park/@30.5097687,-84.3711798,17z",
-      "description":"magmar",
+      "description":"Trash Panda",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/magmar.gif"
+         "url":"http://crabshackgallery.com/images/PAWS_R.png"
       }
    },
    {  
       "color":"10696174",
       "title":"Tom Brown Park",
       "url":"https://www.google.com/maps/place/Tom+Brown+Park,+Conner+Blvd,+Tallahassee,+FL+32311/@30.4437904,-84.2150455,18z",
-      "description":"poliwag",
+      "description":"drowzee",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/poliwag.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/drowzee.gif"
       }
    },
    {  
@@ -594,10 +596,10 @@ curl -X POST --data '
       "color":"10329501",
       "title":"Winthrop Park",
       "url":"https://www.google.com/maps/place/Winthrop+Park/@30.463722,-84.2692447,17z",
-      "description":"?",
+      "description":"bellsprout",
       "type":"link",
       "thumbnail":{  
-         "url":"http://www.pokestadium.com/sprites/black-white/animated/.gif"
+         "url":"http://www.pokestadium.com/sprites/black-white/animated/bellsprout.gif"
       }
    }
 ]
@@ -628,6 +630,5 @@ curl -X POST --data '
    }
 ]
 }' -H "Content-Type: application/json" https://discordapp.com/api/webhooks/299555497898409984/MK_84Zh-YIBMNAJbegnPQ6Mu7F65GRgiyDJqI_-37oxJxKp5x_VC1UyywFdAyszIXtXh
-
 
 ####http://orig13.deviantart.net/385a/f/2015/331/6/b/don_t_fuckle_with_shuckle_by_drakinite-d9i7zkm.gif
